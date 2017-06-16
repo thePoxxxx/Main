@@ -11,3 +11,9 @@ p, li {
   color: #323232;
   font-size: 13px;
 }
+
+h2 {
+  font-family: arial;
+  font-size: 30px;
+  color: #172c38;
+}
