@@ -5,6 +5,7 @@ h1 {
   background-color: #c0cadb;
   align-self: center;
   text-transform: uppercase;
+  text-align: Center;
 }
 
 p, ol {
