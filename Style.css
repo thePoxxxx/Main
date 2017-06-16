@@ -4,6 +4,7 @@ h1 {
   color: #173242;
   background-color: #c0cadb;
   align-self: center;
+  text-transform: uppercase;
 }
 
 p, ol {
