@@ -6,7 +6,7 @@ h1 {
   align-self: center;
 }
 
-p {
+p, li {
   font-family: Arial, Helvetica, sans-serif;
   color: #323232;
 }
