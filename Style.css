@@ -18,3 +18,9 @@ h3 {
   color: #fff;
   background-color: #172c38;
 }
+
+a {
+  color: #173242;
+  font-style: italic;
+  font-family: helvetica, Arial, sans-serif;
+}
