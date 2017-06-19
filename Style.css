@@ -1,6 +1,7 @@
-.Navi {
+.Navi
+{
   font-size: 20px;
-  font-family: Arial;
+  font-family: Helvetica, Arial, sans-serif;
   background-color: green;
   max-width: 300px;
   letter-spacing: 0.5em;
