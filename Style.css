@@ -39,5 +39,6 @@ h2{
   background-color: #2c1c36;
 }
 
-.Karte_Bild{
+.Karte_Bild {
+  position: relative;
 }
