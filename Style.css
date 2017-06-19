@@ -30,5 +30,6 @@ h2{
   max-width: 350px;
   min-width: 300px;
   float: left;
-  border: solid #fff;
+  border: 8px solid ##cfdee3;
+  color: #ecf0f6;
 }
