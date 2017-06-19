@@ -1,7 +1,8 @@
 .Navi {
   font-size: 15px;
   font-family: Helvetica, Arial, sans-serif;
-  color: #212229;  
+  color: #212229;
+  text-transform: uppercase;
 }
 
 h1 {
@@ -9,7 +10,7 @@ h1 {
 }
 
 .Header {
-  height: 150px;
+  height: 110px;
   background-color: #3aa69d;
   font-family: Pacifico, cursive;
   font-size: 24px;
