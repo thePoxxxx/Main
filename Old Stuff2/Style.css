@@ -1,0 +1,39 @@
+h1 {
+  font-family: Pacifico;
+  font-size: 48px;
+  color: #173242;
+  background-color: #c0cadb;
+  text-align: Center;
+}
+
+p, ol {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #323232;
+  font-size: 16px;
+}
+
+p {
+  line-height: 1.5em;
+}
+
+h3 {
+  font-family: arial;
+  font-size: 24px;
+  color: #fff;
+  background-color: #172c38;
+  text-transform: uppercase;
+}
+
+a {
+  color: #173242;
+  font-family: helvetica, Arial, sans-serif;
+  font-size: 14;
+}
+
+h3.He3 {
+  letter-spacing: 0.2em;
+}
+
+*{
+  border: 1px solid rgba(0,0,0,0.3);
+}
