@@ -33,3 +33,7 @@ a {
 h3.He3 {
   letter-spacing: 0.2em;
 }
+
+*{
+  border: 1px solid rgba(0,0,0,0.3);
+}
