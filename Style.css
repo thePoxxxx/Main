@@ -3,6 +3,7 @@
   font-family: Helvetica, Arial, sans-serif;
   color: #212229;
   text-transform: uppercase;
+  max-height: 50px;
 }
 
 h1 {
@@ -27,9 +28,13 @@ h2{
 }
 
 .Karte {
-  max-width: 350px;
-  min-width: 300px;
+  max-width: 310px;
+  min-width: 280px;
   float: left;
   border: 12px solid ##cfdee3;
-  background-color: black;
+  background-color: white;
+}
+
+.Karte_Bild{
+  align-self: center;
 }
