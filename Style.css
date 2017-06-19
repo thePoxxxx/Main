@@ -22,11 +22,11 @@ h2{
 }
 
 .Mtl {
-  color: #cfdee3;
+  background-color: #cfdee3;
   min-height: 200px;
 }
 
-.karte {
+.Karte {
   max-width: 350px;
   min-width: 300px;
   float: left;
