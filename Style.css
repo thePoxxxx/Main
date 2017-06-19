@@ -9,6 +9,10 @@ h1 {
   text-align: center;
 }
 
+h2{
+  text-align: center;
+}
+
 .Header {
   height: 110px;
   background-color: #3aa69d;
@@ -19,4 +23,12 @@ h1 {
 
 .Mtl {
   color: #cfdee3;
+  min-height: 200px;
+}
+
+.karte {
+  max-width: 350px;
+  min-width: 300px;
+  float: left;
+  border: solid #fff;
 }
