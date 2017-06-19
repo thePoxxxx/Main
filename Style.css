@@ -1,12 +1,7 @@
 .Navi {
   font-size: 20px;
   font-family: Helvetica, Arial, sans-serif;
-  background-color: grey;
-  max-width: 300px;
-  max-height: 600px;
-  letter-spacing: 0.5em;
-  border: 12px solid #fff;
-  float: left;
+  color: #212229
 }
 
 h1 {
@@ -19,4 +14,8 @@ h1 {
   font-family: Pacifico, cursive;
   font-size: 24px;
   color: #fff;
+}
+
+.Mtl {
+  color: #cfdee3;
 }
