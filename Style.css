@@ -2,7 +2,7 @@
   height: 204px;
   width: 100%;
   font-family: 'Bodoni MT', Times, serif;
-  color: red;
+  color: #dde9ef;
   font-size: 117px;
   text-align: center;
   vertical-align: center;
@@ -19,5 +19,6 @@ body{
 * { margin: 0; padding: 0; border: none; }
 
 #X-1{
-  padding-top: 20px;
+  padding-top: 17px;
+  font-style: oblique;
 }
