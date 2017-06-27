@@ -37,12 +37,14 @@ html, body{
 
 .xx{
   float: left;
-  margin-left: 50px;
+  margin-left: 55px;
+  height: 100%;
 }
 
 #X-2 {
   padding-top: 18px;
   padding-left: 16.15%;
+
 }
 
 .main{
