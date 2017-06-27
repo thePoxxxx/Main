@@ -50,7 +50,8 @@ html, body{
 #Mid{
   width: 72.08%;
   background-color: red;
-  align-self: center;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .main{
