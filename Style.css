@@ -2,8 +2,9 @@
   height: 204px;
   width: 100%;
   background-color: green;
-  font-family: 'Bodoni MT Condensed Bold Italic', serif;
-  letter-spacing: 80%;
+  font-family: 'Bodoni MT', serif;
+  font-style: italic;
+  letter-spacing: 80em;
   color: #ffffff;
   font-size: 117px;
   text-align: center;
