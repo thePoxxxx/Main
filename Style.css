@@ -9,7 +9,7 @@
   background-image: url(https://thepoxxxx.github.io/Main/i/head.jpg);
 }
 
-body{
+html, body{
   padding: 0px;
   margin: 0px;
   margin-top: 0px;
