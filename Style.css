@@ -17,7 +17,10 @@ html, body{
   height: 100%;
 }
 
-* { margin: 0; padding: 0; border: none; }
+* { margin: 0; padding: 0; /*border: none*/;
+  border-top-style: dashed;
+
+}
 
 #X-1{
   padding-top: 17px;
