@@ -25,3 +25,9 @@ body{
   font-stretch: condensed;
   letter-spacing: 0.08em;
 }
+
+Nav {
+  height: 47px;
+  width: 1000%;
+  background-color: #fff;
+}
