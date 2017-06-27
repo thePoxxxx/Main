@@ -1,7 +1,8 @@
 .kp {
   height: 204px;
   width: 100%;
-  font-family: 'Bodoni MT', serif;
+  font-family: 'Bodoni MT', Times, serif;
+  font-style: italic;
   color: #ffffff;
   font-size: 117px;
   text-align: center;
@@ -17,3 +18,7 @@ body{
 }
 
 * { margin: 0; padding: 0; border: none; }
+
+#X-1{
+  margin-top: 15px;
+}
