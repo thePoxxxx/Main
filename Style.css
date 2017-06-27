@@ -52,6 +52,7 @@ html, body{
   background-color: red;
   margin-right: auto;
   margin-left: auto;
+  height: 100%;
 }
 
 .main{
