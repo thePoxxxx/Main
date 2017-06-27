@@ -33,7 +33,10 @@ html, body{
   background-color: #fff;
   font-family: Arial, sans-serif;
   color: #204056;
+}
 
+.xx{
+  float: right;
 }
 
 #X-2 {
