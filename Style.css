@@ -36,7 +36,8 @@ html, body{
 }
 
 .xx{
-  float: right;
+  float: left;
+  margin-left: 30px;
 }
 
 #X-2 {
