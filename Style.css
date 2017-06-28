@@ -14,7 +14,7 @@ html, body{
   margin: 0px;
   margin-top: 0px;
   padding-top: 0px;
-  min-height: 100%;
+  height: 100%;
 }
 
 * { margin: 0; padding: 0; border: solid;
@@ -40,7 +40,6 @@ html, body{
 .xx{
   float: left;
   margin-left: 35px;
-  height: 100%;
 }
 
 #X-2 {
@@ -60,7 +59,7 @@ html, body{
 
 .main {
   width: 100%;
-  min-height:100%;
+  height:100%;
   background-color: #c5c5c5;
 }
 
