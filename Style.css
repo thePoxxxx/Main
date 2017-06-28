@@ -70,4 +70,5 @@ html, body{
   margin-left: 35px;
   margin-top: 35px;
   background-color: Blue;
+  float: left;
 }
