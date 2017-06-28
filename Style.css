@@ -65,7 +65,9 @@ html, body{
 }
 
 .Card {
-  width: 100px;
-  width: 100px;
+  height:300px;
+  width: 453px;
+  margin-left: 35px;
+  margin-top: 35;
   background-color: black;
 }
