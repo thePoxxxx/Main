@@ -71,3 +71,9 @@ html, body{
   background-color: #fff;
   float: left;
 }
+
+.clearfix:after {
+content: "";
+display: table;
+clear: both;
+}
