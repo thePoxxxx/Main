@@ -15,7 +15,9 @@ html, body{
   margin-top: 0px;
   padding-top: 0px;
   height: 100%;
-  overflow:inherit;
+  display:block;
+  overflow:auto;
+
 }
 
 * { margin: 0; padding: 0; border: none;
