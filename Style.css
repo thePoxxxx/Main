@@ -15,7 +15,7 @@ html, body{
   margin-top: 0px;
   padding-top: 0px;
   height: 100%;
-  overflow: scroll;
+  overflow:inherit;
 }
 
 * { margin: 0; padding: 0; border: none;
